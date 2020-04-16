@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b88a7f61-cd14-49df-baa6-cc4705864c0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aYF2zmjmGf8uZQwK6rHn00DCs8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReplState" timestamp="1587038067570">{:repl-history {:ide [], :local [{:command &quot;(multiInput 1 2 3)&quot;, :offset 14, :ns &quot;proj3demo2.core&quot;} {:command &quot;(hello)&quot;, :offset 6, :ns &quot;proj3demo2.core&quot;} {:command &quot;(hello Andrew)&quot;, :offset 13, :ns &quot;proj3demo2.core&quot;} {:command &quot;(hello \&quot;Andrew\&quot;)&quot;, :offset 14, :ns &quot;proj3demo2.core&quot;} {:command &quot;(comment hey)&quot;, :offset 12, :ns &quot;proj3demo2.core&quot;} {:command &quot;(println '(1 2 3))&quot;, :offset 16, :ns &quot;proj3demo2.core&quot;} {:command &quot;(println (1 2 3))&quot;, :offset 9, :ns &quot;proj3demo2.core&quot;} {:command &quot;(println [1 2 3])&quot;, :offset 15, :ns &quot;proj3demo2.core&quot;} {:command &quot;(println {oak: leaf, pine: needle, maple: leaf})&quot;, :offset 48, :ns &quot;proj3demo2.core&quot;} {:command &quot;(println {:oak leaf, :pine needle, :maple leaf})&quot;, :offset 48, :ns &quot;proj3demo2.core&quot;} {:command &quot;(print {:oak leaf, :pine needle, :maple leaf})    &quot;, :offset 50, :ns &quot;proj3demo2.core&quot;} {:command &quot;(print {:oak \&quot;leaf\&quot;, :pine \&quot;needle\&quot;, :maple \&quot;leaf\&quot;})    &quot;, :offset 56, :ns &quot;proj3demo2.core&quot;} {:command &quot;(println {:oak \&quot;leaf\&quot;, :pine \&quot;needle\&quot;, :maple \&quot;leaf\&quot;})    &quot;, :offset 8, :ns &quot;proj3demo2.core&quot;} {:command &quot;(println \\p)&quot;, :offset 11, :ns &quot;proj3demo2.core&quot;} {:command &quot;#(+ 2 2)&quot;, :offset 7, :ns &quot;proj3demo2.core&quot;} {:command &quot;#(+ 2 %)&quot;, :offset 7, :ns &quot;proj3demo2.core&quot;} {:command &quot;(multiInput 2 3 5)&quot;, :offset 17, :ns &quot;proj3demo2.core&quot;} {:command &quot;(-main)&quot;, :offset 6, :ns &quot;proj3demo2.core&quot;}], :remote []}}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="proj3demo2" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b88a7f61-cd14-49df-baa6-cc4705864c0f" name="Default Changelist" comment="" />
+      <created>1586904416315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586904416315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1130" y="552" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586905478562">
+      <screen x="0" y="23" width="2560" height="1339" />
+    </state>
+    <state x="1130" y="552" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1339@0.23.2560.1339" timestamp="1586905478562" />
+    <state x="943" y="602" key="com.intellij.ide.util.TipDialog" timestamp="1586923328995">
+      <screen x="0" y="22" width="2560" height="1340" />
+    </state>
+    <state x="943" y="602" key="com.intellij.ide.util.TipDialog/0.22.2560.1340@0.22.2560.1340" timestamp="1586923328995" />
+  </component>
+</project>
